@@ -1,0 +1,25 @@
+{
+  "name": "planet-dimensions",
+  "version": "0.0.1",
+  "description": "planetary radii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdersky/planetDimensions.git"
+  },
+  "keywords": [
+    "planets",
+    "solar",
+    "system",
+    "dimensions"
+  ],
+  "author": "cdersky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdersky/planetDimensions/issues"
+  },
+  "homepage": "https://github.com/cdersky/planetDimensions#readme"
+}
